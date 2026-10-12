@@ -1,0 +1,28 @@
+{
+  "firma": "Piekarnia Przykładowa",
+  "dzien": "poniedziałek, 12 października",
+  "decyzje": [
+    {"id": "d1", "tytul": "Zatwierdzić post na piątek?", "opis": "Zakwas i poranek, grafika gotowa, sędzia przyjął.", "wybor": null},
+    {"id": "d2", "tytul": "Zamówić mąkę żytnią?", "opis": "Zapas na cztery dni, dostawca potwierdza na wtorek.", "wybor": null},
+    {"id": "d3", "tytul": "Wznowić agenta kontroli cen?", "opis": "Źródło cen wróciło po awarii.", "wybor": null}
+  ],
+  "zadania": [
+    {"tytul": "Sprawdzić wynik nocnych testów", "gotowe": false},
+    {"tytul": "Przejrzeć kolejkę postów na tydzień", "gotowe": false},
+    {"tytul": "Odnowić certyfikat strony", "gotowe": true}
+  ],
+  "dexter": {
+    "mowa": "Masz trzy decyzje i dwa zadania na dziś. Najpilniejsza jest mąka.",
+    "ekran": "Dzień zaczyna się spokojnie: załoga pracuje, jeden agent zgłosił błąd (kontrola cen), budżet miesiąca na poziomie 41%. Pilne: zamówienie mąki do wtorku."
+  },
+  "kafle": {
+    "zaloga": {"agenci": 9, "bledy": 1, "budzet": 41},
+    "marketing": {"zaplanowane": 6, "wstrzymane": 1, "opublikowane": 3},
+    "klienci": {"nowe": 2, "do_oddzwonienia": 1, "oferty": 1}
+  },
+  "dzis": [
+    {"godz": "06:00", "co": "Pierwsza blacha"},
+    {"godz": "11:00", "co": "Dostawa nabiału"},
+    {"godz": "15:30", "co": "Odbiór tortu (zamówienie)"}
+  ]
+}
