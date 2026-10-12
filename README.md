@@ -1,5 +1,7 @@
 # D.E.X.T.E.R. Command Center
 
+![D.E.X.T.E.R. Command Center](docs/okladka.png)
+
 Panel dowodzenia małą firmą AI z asystentem Dexterem w centrum. Jeden ekran: decyzje do podjęcia, zadania dnia, praca agentów, marketing, klienci.
 
 *Command center for a small AI business, with the Dexter assistant at its core.*
